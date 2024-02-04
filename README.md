@@ -1,1 +1,1 @@
-# machine-learning-with-graphs
+# deep-learning-lab-exercises
